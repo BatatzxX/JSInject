@@ -7,7 +7,7 @@ Simple **JS** injector that uses **document.write** to run commands from the use
  - [Can l use trollzpreset?](#l-can-use-the-trollzpresetjs)
  - [l can use your code?](#l-can-use-your-code)
 ## How to use
-As almost my repos, **create a new browser bookmarklet and set the code as a link**
+As almost my repos, **create a new browser bookmarklet and set the [code](https://github.com/BatatzxX/JSInject/blob/main/main.js) as a link**
 
 Now, **open and insert your code!**
 

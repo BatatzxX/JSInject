@@ -1,6 +1,11 @@
 # JSInject
 Simple **JS** injector that uses **document.write** to run commands from the user!
 
+## ***Menu/FAQ:***
+- How to use
+ - Deez is a maware?
+ - Can l use trollzpreset?
+ - Can l use your code?
 ## How to use
 As almost my repos, **create a new browser bookmarklet and set the code as a link**
 

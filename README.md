@@ -2,7 +2,7 @@
 Simple **JS** injector that uses **document.write** to run commands from the user!
 
 ## ***Menu/FAQ:***
-- How to use
+- [How to use](#howtouse)
  - Deez is a maware?
  - Can l use trollzpreset?
  - Can l use your code?

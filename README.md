@@ -9,4 +9,7 @@ Now, open and insert your code!
 # Deez is a maware?
 Nop, this a open-source code, so...
 
-If you dont understand programming, *dont paste random codes insert this!*
+If you dont understand programming, *dont paste random codes insert this!* (unless they are official codes from that repo)
+
+# l can use the trollzpreset.js?
+Yes, this is a exemple script to test the injetor!

@@ -4,7 +4,7 @@ Simple **JS** injector that uses **document.write** to run commands from the use
 ## ***Menu/FAQ:***
 - [How to use](#how-to-use)
  - [Deez is a maware?](#deez-is-a-maware)
- - [Can l use trollzpreset?](#can-l-use-trollzpreset.js)
+ - [Can l use trollzpreset?](#l-can-use-the-trollzpresetjs)
  - [l can use your code?](#l-can-use-your-code)
 ## How to use
 As almost my repos, **create a new browser bookmarklet and set the code as a link**

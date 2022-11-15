@@ -1,4 +1,3 @@
-const jssource = prompt('JSInject \nBy: BatatizxX \n \nType anything to start trollzpreset...:'); 
 document.write('<script>document.write("RIP BOZO");
 alert("your Pc is a potato now! XDDDDD");
 document.write("potatopotatopotatopotatopotatopotatopotatopotatopotatopotatopotatopotatopotatopotatopotatopotatopotatopotatopotatopotatopotatopotatopotatopotato");
